@@ -1,0 +1,25 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SteamCollectionApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Numbers" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;2096758176&lt;/string&gt;
+  &lt;string&gt;3022017447&lt;/string&gt;
+  &lt;string&gt;3018426177&lt;/string&gt;
+  &lt;string&gt;2491445658&lt;/string&gt;
+  &lt;string&gt;2066559813&lt;/string&gt;
+  &lt;string&gt;2635946959&lt;/string&gt;
+  &lt;string&gt;2066559813&lt;/string&gt;
+  &lt;string&gt;3018426177&lt;/string&gt;
+  &lt;string&gt;1167043224&lt;/string&gt;
+  &lt;string&gt;2189362870&lt;/string&gt;
+  &lt;string&gt;1767707642&lt;/string&gt;
+  &lt;string&gt;121225687&lt;/string&gt;
+  &lt;string&gt;852347216&lt;/string&gt;
+  &lt;string&gt;539525706&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
